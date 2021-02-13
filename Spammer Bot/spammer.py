@@ -21,3 +21,5 @@ for i in range(0,int(n)):
 	pyautogui.typewrite(msg)
 	pyautogui.press('enter')
 	time.sleep(1)
+
+	
